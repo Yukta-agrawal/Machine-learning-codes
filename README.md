@@ -1,2 +1,2 @@
 # Machine-learning-codes
-These repository contains all the codes and algorithm that i have learned in my curriculam
+These repository contains all the codes and algorithm that I have learned during my curriculum .
